@@ -2,7 +2,7 @@
 # More detailed instructions (including how to fill these variables for an # online workshop) are available at https://carpentries.github.io/workshop-template/customization/index.html#yaml-header
 # Required variables
 venue: "Newcastle University"
-description: "Chem Eng Cluster"
+address: "Chem Eng Cluster"
 country: "gb"
 language: "en"
 latitude: "54.981472"
