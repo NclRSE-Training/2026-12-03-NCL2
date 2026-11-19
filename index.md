@@ -12,7 +12,7 @@ humantime: "09:00 to 17:00"
 startdate: 2026-12-03
 enddate: 2026-12-03
 instructor: ["Dr Robin Nandi","Dr Richard Howey"]
-helper: ["Usman Bala","Carol Booth","Dr  Jannetta Steyn"]
+helper: ["Usman Bala","Dr  Jannetta Steyn"]
 email: ["training.researchcomputing@newcastle.ac.uk"]
 # Optional variables
 collaborative_notes: https://hackmd.io/@RSETeam/2026-12-03-NCL2/edit
